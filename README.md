@@ -25,9 +25,9 @@ _(organized by the Singapore Courts and the Durham Law School)_
 **Topic:** AI and Intellectual Property Law  
 **Title:** *Emergence of AI and Copyright Law*  
 **Event:** 2nd US–Asia Comparative Copyright Law Symposium  
-_(hosted by the Waseda University Research Center for the Legal System of Intellectual Property (RCLIP);
+_(hosted by the Waseda University Research Center for the Legal System of Intellectual Property (RCLIP);  
 the Kernochan Center for Law, Media and the Arts at Columbia Law School;  
-the Hong Kong University Program on Artificial Intelligence and the Law; and
+the Hong Kong University Program on Artificial Intelligence and the Law; and  
 the Hong Kong Global Technology and Law Academy)_  
 📍 Tokyo, Japan
 
